@@ -50,6 +50,8 @@ public class SimpleBot {
                 "2. To decompose a program into several small subroutines." +
                 "3. To detemine the execution time of program.\n" +
                 "4. To interrupt the execution of a program.");
+        int ans = 2;
+        int guess = scanner.nextInt();
         // write your code here
     }
 
